@@ -1,0 +1,9 @@
+Quantitative and Digital Skills Demonstrated: Portfolio & Investment Analysis Conducted a 
+comprehensive investment analysis comparing Apple (AAPL) and Microsoft (MSFT) stock returns. 
+Demonstrated proficiency in data scraping and data organization using historical market data. 
+Applied descriptive statistical measures to evaluate and compare risk and reward, including the 
+calculation of the Sharpe ratio to assess risk-adjusted performance. Executed formal hypothesis 
+testing (F-test for two population variances) to statistically validate differences in asset volatility. 
+Built a Capital Asset Pricing Model (CAPM) using simple linear regression against the S&P 500 
+index to determine stock risk levels (Beta) and identify abnormal returns (Alpha). Tools Used: 
+Microsoft Excel (Data Analysis Toolpak, statistical functions).
